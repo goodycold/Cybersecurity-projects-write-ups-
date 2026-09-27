@@ -18,4 +18,4 @@ This repo contains step-by-step guides, lab exercises, and Capture the Flag (CTF
 
 ## My First Cybersecurity Walkthrough
 
-[Vuln-Bank — Read on Medium](https://medium.com/@goodypetes/list/reading-list)
+[Vuln-Bank](https://medium.com/@goodypetes/list/reading-list)
