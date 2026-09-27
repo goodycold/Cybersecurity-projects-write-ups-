@@ -1,4 +1,4 @@
-# Cybersecurity Walkthroughs
+# Projects & Writeups 
 
 Welcome to my walkthrough repository.
 
