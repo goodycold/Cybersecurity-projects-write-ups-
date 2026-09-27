@@ -18,4 +18,4 @@ This repo contains step-by-step guides, lab exercises, and Capture the Flag (CTF
 
 ## My First Pentesting Walkthrough
 
-[Vuln-Bank](https://medium.com/@goodypetes/list/reading-list)
+[Vuln-Bank](https://medium.com/@goodypetes/my-first-cyber-security-walk-through-783617632707)
