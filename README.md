@@ -16,6 +16,6 @@ This repo contains step-by-step guides, lab exercises, and Capture the Flag (CTF
 
 [Active Directory Lab: Setup, Configuration, and Vulnerability Testing](https://medium.com/@goodypetes/active-directory-lab-setup-configuration-and-vulnerability-testing-463426f25eca)
 
-## My First Cybersecurity Walkthrough
+## My First Pentesting Walkthrough
 
 [Vuln-Bank](https://medium.com/@goodypetes/list/reading-list)
